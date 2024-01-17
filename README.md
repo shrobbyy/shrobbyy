@@ -1,11 +1,8 @@
 ## Hey!! I'm Nico! 👋
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org/)
-
----
-
-### My Socials
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/274241772752732161)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/shrobbyy)
+
+---
 
 ### Desktop Software
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org/)
