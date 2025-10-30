@@ -8,6 +8,8 @@
 [![KDE](https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=fff)](https://kde.org/)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox%20browser&logoColor=fff)](https://firefox.com/)
 [![uBlock Origin](https://img.shields.io/badge/uBlock%20Origin-800000?style=for-the-badge&logo=ublock%20origin&logoColor=fff)](https://github.com/gorhill/uBlock/)
+[![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)](https://bitwarden.com/)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://proton.me/mail)
 
 ---
 
