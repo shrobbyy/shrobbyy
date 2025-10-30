@@ -5,7 +5,7 @@
 
 ### Desktop Software 🖥️
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
-[![KDE](https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=fff)](https://kde.org/)
+[![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff&style=for-the-badge)](https://kde.org/)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox%20browser&logoColor=fff)](https://firefox.com/)
 [![uBlock Origin](https://img.shields.io/badge/uBlock%20Origin-800000?style=for-the-badge&logo=ublock%20origin&logoColor=fff)](https://github.com/gorhill/uBlock/)
 [![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)](https://bitwarden.com/)
