@@ -1,6 +1,5 @@
 ## Hey!! I'm Nico! 👋
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/274241772752732161)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/shrobbyy)
 
 ---
 
